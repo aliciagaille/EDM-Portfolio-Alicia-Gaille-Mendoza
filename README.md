@@ -1,4 +1,4 @@
-# EDM-Portfolio - Alicia Gaille Mendoza
+9# EDM-Portfolio - Alicia Gaille Mendoza
 This portfolio will contain copies of my Enterprise Data Management Lab Activities/Exercises
 
 ## About Me
@@ -12,4 +12,4 @@ Outside of academics, I enjoy experimenting with new coding projects and staying
 - Elementary: Sto. Rosario Elementary School
 
 ## My Projects
-- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL] (Midterm%20Lab%20Task1%20/README.md)
+- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task1%20/README.md)
