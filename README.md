@@ -12,4 +12,4 @@ Outside of academics, I enjoy experimenting with new coding projects and staying
 - Elementary: Sto. Rosario Elementary School
 
 ## My Projects
-- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task1%20/README.md)
+- Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task1%201/README.md)
