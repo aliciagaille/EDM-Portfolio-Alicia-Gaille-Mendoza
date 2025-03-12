@@ -13,4 +13,4 @@ Outside of academics, I enjoy experimenting with new coding projects and staying
 
 ## My Projects
 - Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](Midterm%20Lab%20Task1/README.md)
-- MIDTERM LAB TASK 2: 
+- MIDTERM LAB TASK 2: [Data cleaning and Preparation using EXCEL](MIDTERM%20LAB%20TASK%202)
