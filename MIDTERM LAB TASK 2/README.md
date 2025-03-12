@@ -14,10 +14,23 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 - Handle negative values
 
 ## Step 2 Here's the screenshoot of my output before I started data cleaning using power query (See screenshot)
+![sample Output](Images/uncleaned1.jpeg)
+![sample Output](Images/uncleaned2.jpeg)
 
 ## Step 3 Here's the screenshoot of my output after I started data cleaning using power query (See screenshot)
-
+![sample Output](Images/clean1.PNG)
+![sample Output](Images/clean2.PNG)
+![sample Output](Images/clean3.PNG)
+![sample Output](Images/clean4.PNG)
 
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
+![sample Output](Images/uncleaned1.jpeg)
+![sample Output](Images/uncleaned1.jpeg)
+![sample Output](Images/uncleaned1.jpeg)
+![sample Output](Images/uncleaned1.jpeg)
+![sample Output](Images/uncleaned1.jpeg)
+![sample Output](Images/uncleaned1.jpeg)
+![sample Output](Images/uncleaned1.jpeg)
 
 ## Here's the screenshot of my Query Dependencies (See Screenshot)
+![sample Output](Images/uncleaned1.jpeg)
