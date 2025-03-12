@@ -25,7 +25,7 @@ For this task we are given a Flat data from Excel (See rawfile) and we are Task 
 
 ## Step 4 Here's the screenshot of my group tables using power query (See Screenshot)
 ![sample Output](Images/SalByRoleTypeDup.PNG)
-![sample Output](Images/SalBySizeRef.PNG)
+![sample Output](Images/sizeroletype.png)
 ![sample Output](Images/states1.PNG)
 ![sample Output](Images/states2.PNG)
 ![sample Output](Images/stateref1.PNG)
