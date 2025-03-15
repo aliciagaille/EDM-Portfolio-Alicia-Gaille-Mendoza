@@ -19,14 +19,18 @@ For this task I worked on organizing and showing data using Pivot Table and Dash
 ## Step 3: Used Pivot Tables and Charts to Show Data
 - Made Pivot Table to group salaries by role, state, and company size.
 - Create Chart.
-![sample Output](Images/Pivot1.PNG)
-![sample Output](Images/Pivot2.PNG)
+![sample Output](Images/Pivot1.png)
+![sample Output](Images/Pivot2.png)
 
 ## Step 4: Create the Dashboard better
 - Insert Slicers for Role Type, Size and State
 - Insert MAP if your Excel version has one (2019 and up) 
 - Apply your own design and colour settings to make your DASHBOARD look more
 appealing and presentable.
+![sample Output](Images/Slicer1.png)
+![sample Output](Images/Slicer2.png)
+![sample Output](Images/Slicer3.png)
+
 
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
 ![Sample Output](images/job.PNG)
