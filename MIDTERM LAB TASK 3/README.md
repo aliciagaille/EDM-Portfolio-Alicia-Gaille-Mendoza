@@ -33,11 +33,10 @@ appealing and presentable.
 
 
 Here's the screenshot of my output before I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/job.PNG)
+![Sample Output](Images/Before.png)
 
 Here's the screenshot of my output after I started creating pivot tables and charts (See screenshot)
-![Sample Output](images/pivot.PNG)
-![Sample Output](images/slicers.PNG)
+![Sample Output](Images/After.png).
 
 Here's the Final Dashboard Output
-![Sample Output](images/dashboard.PNG)
+![Sample Output](Images/Finished.png)
