@@ -14,4 +14,4 @@ Outside of academics, I enjoy experimenting with new coding projects and staying
 ## My Projects
 - Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/tree/main/Midterm%20Lab%20Task1)
 - MIDTERM LAB TASK 2: [Data cleaning and Preparation using EXCEL](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/tree/main/MIDTERM%20LAB%20TASK%202)
-- MIDTERM LAB TASK 3: [Data cleaning and Preparation using EXCEL](MIDTERM%20LAB%20TASK%203/README.md)
+- MIDTERM LAB TASK 3: [Data cleaning and Preparation using EXCEL](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/blob/main/MIDTERM%20LAB%20TASK%203/README.md)
