@@ -15,6 +15,7 @@ Outside of academics, I enjoy experimenting with new coding projects and staying
 - Midterm Lab Task 1: [Data cleaning and Preparation using EXCEL](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/blob/main/Midterm%20Lab%20Task1)
 - MIDTERM LAB TASK 2: [Data cleaning and Preparation using Power Query](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/blob/main/MIDTERM%20LAB%20TASK%202)
 - MIDTERM LAB TASK 3: [Creating PIVOT Table and Dashboard](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/blob/main/MIDTERM%20LAB%20TASK%203/README.md)
+
 - FINALS LAB TASK 1: [Multi Level Company Database]
 - FINALS LAB TASK 2: [Transforming ER Model to Relational Tables](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/tree/main/FINALS%20LAB%20TASK%202)
 - FINALS LAB TASK 3: [Table Manipulation]
