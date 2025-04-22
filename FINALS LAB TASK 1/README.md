@@ -47,19 +47,19 @@ Here's the screenshot of Table Structure (See screenshots)
 ### Student table
 
   
-![Sample Output](images/student2.png)
+![Sample Output](Images/student2.png)
 
 ### Assignment table
 
   
-![Sample Output](images/assignment3.png)
+![Sample Output](Images/assignment3.png)
 
 ### Submission table
 
   
-![Sample Output](images/submission3.png)
+![Sample Output](Images/submission3.png)
 
 Here's the ER Diagram or Relational Schema
 
-![Sample Output](images/ERD7.png)
+![Sample Output](Images/ERD7.png)
 
