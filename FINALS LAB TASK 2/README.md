@@ -39,6 +39,7 @@ CREATE TABLE submission_tbl (
     FOREIGN KEY (shortname) REFERENCES assignment_tbl(shortname)
         ON DELETE CASCADE
         ON UPDATE CASCADE
+);
 ```
 
 Here's the screenshot of Table Structure (See screenshots)
