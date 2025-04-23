@@ -5,18 +5,22 @@ This task involves creating and managing a product database using MySQL. You are
 
 Fisrt, a command that create a database, so subsequent SQL operations will be performed within that specific database.
 ```sql
-CREATE DATABASE product_db;
+CREATE DATABASE products_db;
+SHOW DATABASES;
 
-USE product_db;
+USE products_db;
 ```
 
 ### TASK 1
 ```sql
 CREATE TABLE products_tbl (
-    id INT AUTO_INCREMENT PRIMARY KEY,
-    product_name VARCHAR(100) NOT NULL,
-    price DECIMAL(10, 2)
+id INT AUTO_INCREMENT PRIMARY KEY,
+product_name VARCHAR (100) NOT NULL,
+price DECIMAL (10,2),
+CHECK (price > 0)
 );
+
+DESCRIBE products_tbl;
 ```
 ### TASK 2
 ```sql
@@ -34,6 +38,8 @@ INSERT INTO products_tbl (product_name, price) VALUES
 ('Mouse', 14.99),
 ('Desk Lamp', 24.99),
 ('Speakers', 9.99);
+
+SELECT * FROM products_tbl;
 ```
 
 ### TASK 4
@@ -49,14 +55,15 @@ Here's the screenshot of whole Query Statements (See screenshots)
 
  ### The Query Statements
  
-![Sample Output](images/LAB3.PNG)
+![Sample Output](Images/1.png)
+![Sample Output](Images/2.png)
 
 Here's the screenshot of Table Structure (See screenshots)
 
 ### Product Table
   
-![Sample Output](images/PRODUCTS.PNG)
+![Sample Output](Images/3.png)
 
 Here's the ER Diagram or Relational Schema
 
-![Sample Output](Images/ERD7.png)
+![Sample Output](Images/4.png)
