@@ -18,4 +18,4 @@ Outside of academics, I enjoy experimenting with new coding projects and staying
 
 - FINALS LAB TASK 1: [Multi Level Company Database]
 - FINALS LAB TASK 2: [Transforming ER Model to Relational Tables](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/tree/main/FINALS%20LAB%20TASK%202)
-- FINALS LAB TASK 3: [Table Manipulation]
+- FINALS LAB TASK 3: [Table Manipulation](https://github.com/aliciagaille/EDM-Portfolio-Alicia-Gaille-Mendoza/tree/main/FINALS%20LAB%20TASK%203)
