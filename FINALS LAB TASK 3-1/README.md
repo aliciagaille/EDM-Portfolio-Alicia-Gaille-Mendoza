@@ -5,40 +5,42 @@ For this task, we are given initial query then perform the SELECT statements req
 
 Fisrt, a command that create a database, so subsequent SQL operations will be performed within that specific database.
 ```sql
-CREATE DATABASE online_courseDB;
-USE online_courseDB;
+CREATE DATABASE online_courses;
+SHOW DATABASES;
+
+USE online_courses;
 ```
 
 ### TASK 1
 ```sql
-SELECT * 
-FROM courses 
+SELECT *
+FROM courses_tbl
 WHERE students_enrolled < enrollment_limit;
 ```
 ### TASK 2
 ```sql
-SELECT category, SUM(students_enrolled) AS total_students_enrolled
-FROM courses
+SELECT category, SUM(students_enrolled) AS total_number_of_students_enrolled
+FROM courses_tbl
 GROUP BY category;
 ```
 
 ### TASK 3
 ```sql
-SELECT * 
-FROM courses 
+SELECT *
+FROM courses_tbl
 WHERE students_enrolled = enrollment_limit;
 ```
 
 ### TASK 4
 ```sql
-SELECT SUM(students_enrolled) AS total_students
-FROM courses;
+SELECT SUM(students_enrolled) AS total_number_of_students_enrolled
+FROM courses_tbl;
 ```
 
 ### TASK 5
 ```sql
-SELECT * 
-FROM courses 
+SELECT *
+FROM courses_tbl
 ORDER BY students_enrolled ASC;
 ```
 
