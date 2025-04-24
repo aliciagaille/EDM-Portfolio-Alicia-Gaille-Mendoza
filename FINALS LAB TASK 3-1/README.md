@@ -48,21 +48,21 @@ ORDER BY students_enrolled ASC;
 
 ### TASK 1
 
-![Sample Output](Images/TASK1.PNG)
+![Sample Output](Images/TASK1.png)
 
 ### TASK 2
 
-![Sample Output](Images/TASK2.PNG)
+![Sample Output](Images/TASK2.png)
 
 ### TASK 3
 
-![Sample Output](Images/TASK3.PNG)
+![Sample Output](Images/TASK3.png)
 
 ### TASK 4
 
-![Sample Output](Images/TASK4.PNG)
+![Sample Output](Images/TASK4.png)
 
 ### TASK 5
 
-![Sample Output](Images/1TASK5.PNG)
-![Sample Output](Images/2TASK5.PNG)
+![Sample Output](Images/1TASK5.png)
+![Sample Output](Images/2TASK5.png)
