@@ -12,21 +12,21 @@ USE student_submissions;
 ```
 ### Student Query Statements
 ```sql
-CREATE TABLE students_tbl (
+CREATE TABLE student_tbl (
     username VARCHAR(50) PRIMARY KEY
 );
 
-DESCRIBE students_tbl;
+DESCRIBE student_tbl;
 ```
 ### Assignment Query Statements
 ```sql
-CREATE TABLE assignments_tbl (
+CREATE TABLE assignment_tbl (
     shortname VARCHAR(50) PRIMARY KEY,
     due_date DATE NOT NULL,
     url VARCHAR(255)
 );
 
-DESCRIBE assignments_tbl;
+DESCRIBE assignment_tbl;
 ```
 ### Submission Query Statements
 ```sql
