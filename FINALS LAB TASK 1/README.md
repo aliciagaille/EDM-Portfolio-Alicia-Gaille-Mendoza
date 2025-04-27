@@ -5,9 +5,6 @@ It includes employees, departments, managers, and their relationships with proje
 
 ## Database: MultiLevel_company
 
-Here’s the Query Statements
-
-
 ### Employees Table
 
 This table stores employee records and their managers.
