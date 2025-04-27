@@ -15,6 +15,8 @@ USE student_submissions;
 CREATE TABLE students_tbl (
     username VARCHAR(50) PRIMARY KEY
 );
+
+DESCRIBE students_tbl;
 ```
 ### Assignment Query Statements
 ```sql
@@ -23,6 +25,8 @@ CREATE TABLE assignments_tbl (
     due_date DATE NOT NULL,
     url VARCHAR(255)
 );
+
+DESCRIBE assignments_tbl;
 ```
 ### Submission Query Statements
 ```sql
@@ -40,6 +44,8 @@ CREATE TABLE submission_tbl (
         ON DELETE CASCADE
         ON UPDATE CASCADE
 );
+
+DESCRIBE submission_tbl;
 ```
 
 Here's the screenshot of Table Structure (See screenshots)
