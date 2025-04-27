@@ -7,10 +7,6 @@ It includes employees, departments, managers, and their relationships with proje
 
 Here’s the Query Statements
 
-Fisrt, a command that create a database as the active database, so subsequent SQL operations will be performed within that specific database.
-```sql
-CREATE DATABASE student_submissions;
-SHOW DATABASES;
 
 ### Employees Table
 
