@@ -18,7 +18,7 @@ CREATE TABLE employees (
 ```
 ### EMPLOYEES TABLE STRUCTURE
 
-![sample Output](images/TASK1.1.PNG)
+![sample Output](Images/55.png)
 
 ---
 
@@ -32,7 +32,7 @@ CREATE TABLE departments (
 );
 ```
 ### DEPARTMENTS TABLE STRUCTURE
-![sample Output](images/TASK2.1.PNG)
+![sample Output](Images/52.png)
 
 ---
 
@@ -48,7 +48,7 @@ CREATE TABLE employee_department (
 );
 ```
 ### EMPLOYEES_DEPARTMENTS TABLE STRUCTURE
-![sample Output](images/TASK3.1.PNG)
+![sample Output](Images/53.png)
 
 ---
 
@@ -62,7 +62,7 @@ CREATE TABLE employee_projects (
 );
 ```
 ### EMPLOYEES_PROJECTS TABLE STRUCTURE
-![sample Output](images/TASK4.1.PNG)
+![sample Output](Images/54.png)
 
 ---
 
@@ -76,9 +76,9 @@ CREATE TABLE managers (
 );
 ```
 ### MANAGERS TABLE STRUCTURE
-![sample Output](images/TASK5.1.PNG)
+![sample Output](Images/55.png)
 
 ### EER Diagram
 This diagram shows a visual representation of the relationships among the tables.
-![sample Output](Images/57.PNG)
+![sample Output](Images/57.png)
 
