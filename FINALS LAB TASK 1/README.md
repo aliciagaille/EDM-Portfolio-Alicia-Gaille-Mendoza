@@ -27,7 +27,7 @@ DESCRIBE employees_tbl;
 ```
 ### EMPLOYEES TABLE STRUCTURE
 
-![sample Output](Images/55.png)
+![sample Output](Images/51.png)
 
 ---
 
