@@ -16,7 +16,7 @@ Outside of academics, I enjoy experimenting with new coding projects and staying
 - MIDTERM LAB TASK 2: [Data cleaning and Preparation using Power Query](MIDTERM%20LAB%20TASK%202)
 - MIDTERM LAB TASK 3: [Creating PIVOT Table and Dashboard](MIDTERM%20LAB%20TASK%203)
 
-- FINALS LAB TASK 1: [Multi Level Company Database]
+- FINALS LAB TASK 1: [Multi Level Company Database](FINALS%20LAB%20TASK%201)
 - FINALS LAB TASK 2: [Transforming ER Model to Relational Tables](FINALS%20LAB%20TASK%202)
 - FINALS LAB TASK 3: [Table Manipulation](FINALS%20LAB%20TASK%203)
 - FINALS LAB TASK 3-1: [Using SELECT CLAUSE](FINALS%20LAB%20TASK%203-1)
