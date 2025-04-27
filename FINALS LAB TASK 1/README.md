@@ -12,12 +12,21 @@ Here’s the Query Statements
 
 This table stores employee records and their managers.
 ```sql
-CREATE TABLE employees (
-    employee_id INT(5) UNIQUE AUTO_INCREMENT PRIMARY KEY,
-    employee_name VARCHAR(255) NOT NULL,
-    manager_id INT,
-    FOREIGN KEY (manager_id) REFERENCES employees(employee_id)
+CREATE DATABASE multi_level_company;
+SHOW DATABASES;
+
+USE multi_level_company;
+
+-- TASK 1
+
+CREATE TABLE employees_tbl (
+employee_id INT AUTO_INCREMENT PRIMARY KEY,
+employee_name VARCHAR(255) NOT NULL,
+manager_id INT,
+FOREIGN KEY (manager_id) REFERENCES employees_tbl(employee_id)
 );
+
+DESCRIBE employees_tbl;
 ```
 ### EMPLOYEES TABLE STRUCTURE
 
