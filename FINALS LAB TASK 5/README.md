@@ -104,4 +104,5 @@ SELECT get_products_by_vendor(21344, 'KY');
 
 ### Sql copy of the database and table structures
 
-![Sample Output](images/LABCOPY.PNG)
+![Sample Output](Images/86.png)
+![Sample Output](Images/87.png)
