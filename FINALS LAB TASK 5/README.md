@@ -83,23 +83,24 @@ SELECT get_products_by_vendor(21344, 'KY');
 
 ### TASK 1
 
-![Sample Output](images/LAB5.1.PNG)
+![Sample Output](Images/80.png)
 
 ### TASK 2
 
-![Sample Output](images/LAB5.2.PNG)
+![Sample Output](Images/81.png)
 
 ### TASK 3
 
-![Sample Output](images/LAB5.3.PNG)
+![Sample Output](Images/82.png)
 
 ### TASK 4
 
-![Sample Output](images/LAB5.4.PNG)
+![Sample Output](Images/83.png)
 
 ### TASK 5
 
-![Sample Output](images/LAB5.5.PNG)
+![Sample Output](Images/84(5).png)
+![Sample Output](Images/85(5).png)
 
 ### Sql copy of the database and table structures
 
