@@ -77,7 +77,7 @@ db.movies.update({_id:ObjectId("5c9fa42ae5c2dfe9b3729c03")}, {$set:{synopsis:"Th
 ```sql
 db.movies.update({_id:ObjectId("5c9f983ce5c2dfe9b3729bfc")}, {$push:{actors:"Samuel L. Jackson"}})
 ```
-![Sample Output](images/UPDATE.PNG)
+![Sample Output](Images/update1.png)
 
 ### Text Search
 
@@ -96,7 +96,7 @@ db.movies.find({$or:[{synopsis:{$regex:"dwarves"}}, {synopsis:{$regex:"hobbit"}}
 ```sql
 db.movies.find({$and:[{synopsis:{$regex:"gold"}}, {synopsis:{$regex:"dragon"}}]})
 ```
-![Sample Output](images/SEARCH.PNG)
+![Sample Output](Images/ts1.png)
 
 ### Delete Documents
 
@@ -106,5 +106,5 @@ db.movies.remove({_id:ObjectId("5c9f992ae5c2dfe9b3729c00")})
 ```sql
 db.movies.remove({_id:ObjectId("5c9f9936e5c2dfe9b3729c01")})
 ```
-![Sample Output](images/DELETE.PNG)
+![Sample Output](Images/delete1.png)
 
