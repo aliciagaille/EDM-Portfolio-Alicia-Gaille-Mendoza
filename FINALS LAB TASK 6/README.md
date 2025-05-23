@@ -32,9 +32,9 @@ db.movies.find()
 ```sql
 db.movies.find({writer:”Quentin Tarantino”})
 ```
-![Sample Output](Images/QUENTIN1.png)
+![Sample Output](Images/QUENTINE1.png)
 
-![Sample Output](Images/QUENTIN2.png)
+![Sample Output](Images/QUENTINE2.png)
 
 ```sql
 db.movies.find({actors:”Brad Pitt”})
