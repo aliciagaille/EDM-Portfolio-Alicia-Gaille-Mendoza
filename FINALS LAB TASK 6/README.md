@@ -9,21 +9,25 @@ use mongo_practice
 ```
 ### Create Database
 
-![Sample Output](images/FIRST.PNG)
+![Sample Output](Images/create.png)
 
 ### Insert Documents
 
-![Sample Output](images/DOCS1.PNG)
+![Sample Output](Images/insert1.png)
 
-![Sample Output](images/DOCS2.PNG)
+![Sample Output](Images/insert2.png)
+
+![Sample Output](Images/insert3.png)
 
 ### Query Find
 ```sql
 db.movies.find()
 ```
-![Sample Output](images/FIND1.PNG)
+![Sample Output](Images/find1.png)
 
-![Sample Output](images/FIND2.PNG)
+![Sample Output](Images/find2.png)
+
+![Sample Output](Images/find3.png)
 
 ```sql
 db.movies.find({writer:”Quentin Tarantino”})
