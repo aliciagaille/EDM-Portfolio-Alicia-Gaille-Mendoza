@@ -32,27 +32,39 @@ db.movies.find()
 ```sql
 db.movies.find({writer:”Quentin Tarantino”})
 ```
-![Sample Output](images/QUENTIN.PNG)
+![Sample Output](Images/QUENTIN1.png)
+
+![Sample Output](Images/QUENTIN2.png)
 
 ```sql
 db.movies.find({actors:”Brad Pitt”})
 ```
-![Sample Output](images/BRADD.PNG)
+![Sample Output](Images/BRAD1.png)
+
+![Sample Output](Images/BRAD2.png)
 
 ```sql
 db.movies.find({franchise:”The Hobbit”})
 ```
-![Sample Output](images/HOBBIT.PNG)
+![Sample Output](Images/HOBBIT1.png)
+
+![Sample Output](Images/HOBBIT2.png)
+
+![Sample Output](Images/HOBBIT3.png)
 
 ```sql
 db.movies.find({year:{$gt:”1990”, $lt:”2000”}})
 ```
-![Sample Output](images/2000.PNG)
+![Sample Output](Images/1990.png)
 
 ```sql
 db.movies.find({$or:[{year:{$gt:”2010”}},{year: {$lt:”2000”}}]})
 ```
-![Sample Output](images/2010.PNG)
+![Sample Output](Images/2010.png)
+
+![Sample Output](Images/2010(1).png)
+
+![Sample Output](Images/2010(2).png)
 
 ### Update Documents
 
