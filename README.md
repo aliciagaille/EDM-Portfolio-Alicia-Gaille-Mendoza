@@ -22,5 +22,5 @@ Outside of academics, I enjoy experimenting with new coding projects and staying
 - FINALS LAB TASK 3: [Table Manipulation](FINALS%20LAB%20TASK%203)
 - FINALS LAB TASK 3-1: [Using SELECT CLAUSE](FINALS%20LAB%20TASK%203-1)
 - FINALS LAB TASK 5: [Views SP and Functions](FINALS%20LAB%20TASK%205)
-- FINALS LAB TASK 6: [MongoDB Practice]
+- FINALS LAB TASK 6: [MongoDB Practice](FINALS%20LAB%20TASK%206)
 
